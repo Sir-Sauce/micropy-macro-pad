@@ -1,0 +1,3 @@
+#ignore library of artifacts 
+#they should be stored elsewhere
+lib/*
